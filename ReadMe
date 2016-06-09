@@ -1,0 +1,16 @@
+Name of the student: Radhika Dhaipule
+Name of the course:
+CPSC 8170 Physically Based Animation
+Name of the professor: Dr. Donald House
+
+Homework Assignment: Final Project
+
+Description: This is a burning paper simulation using particle systems. I have implemented heat equation for the same. This shows a transition of the particle (which is a part of the burning paper) from when it catches fire, represented by an orange particle to when it falls off the paper, represented by a grey particle which then turns black and disappears.
+    You can control the camera motion using a mouse.
+
+Compilation:
+make
+
+Execution:
+./main
+
